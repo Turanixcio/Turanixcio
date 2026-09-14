@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd-year Computer Engineering student proficient in C, SQL, and core computational foundations, with a focus on web development (JS, HTML, CSS) and Python for data automation pipelines. Currently building a liquid democracy web app (handling both front-end and back-end infrastructure using Docker)to solve complex delegation workflows and create modern tools for digital participation.
+3rd-year Computer Engineering student proficient in C, SQL, and core computational foundations, with a focus on web development (JS, HTML, CSS) and Python for data automation pipelines. Currently building a liquid democracy web app (handling both front-end and back-end infrastructure using Docker) to solve complex delegation workflows and create modern tools for digital participation.
 
 
 ## 🌐 Socials:
